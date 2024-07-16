@@ -1,6 +1,6 @@
 # Dominion
-Created a repository
-Clicked on add README.md 
-copied code from github and paste in vscode gitbash to clone
-move all the files into the main folder 
-Then commit and push
+1. Created a repository
+2. Clicked on add README.md 
+3. copied code from github and paste in vscode gitbash to clone
+4. move all the files into the main folder 
+5. Then commit and push
